@@ -1,0 +1,8 @@
+>ChrIII_A_nidulans_FGSC_A4 (3470897 nucleotides)
+>ChrII_A_nidulans_FGSC_A4 (4070060 nucleotides)
+>ChrIV_A_nidulans_FGSC_A4 (2887738 nucleotides)
+>ChrI_A_nidulans_FGSC_A4 (3759208 nucleotides)
+>ChrVIII_A_nidulans_FGSC_A4 (4934093 nucleotides)
+>ChrVII_A_nidulans_FGSC_A4 (4550218 nucleotides)
+>ChrVI_A_nidulans_FGSC_A4 (3407944 nucleotides)
+>ChrV_A_nidulans_FGSC_A4 (3403833 nucleotides)
