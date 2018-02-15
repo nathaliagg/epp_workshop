@@ -4,6 +4,12 @@ ngg_unix_morning/*.fasta
 ngg_unix_morning/*.gz
 ngg_unix_morning/*feature.tab
 
+afternoon/*~
+afternoon/.ipynb_checkpoints/*
+afternoon/*.fasta
+afternoon/*.gz
+afternoon/*feature.tab
+
 # Andres Windows
 
 Thumbs.db
@@ -60,4 +66,5 @@ git-commands.sh
 *.fasta
 *.fna
 *.fast5
+
 
