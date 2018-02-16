@@ -1,12 +1,12 @@
 # Introduction to Programming for beginners
 ## Entomology and Plant Pathology
 
-Organized by EPPGSA
-Lectures by Andres Espindola & Nathalia Grachet
+Organized by EPPGSA  
+Lectures by Andres Espindola & Nathalia Grachet  
 
-Saturday, March 17th, location TBD
+Saturday, March 17th, location TBD  
 
-Software set-up: day & time TBD
+Software set-up: day & time TBD  
 
 
 Schedule:  

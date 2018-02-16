@@ -14,7 +14,7 @@ Schedule:
 12PM-1PM - LUNCH  
 1PM-4PM - Afternoon section - Basic scripting, hands-on real-time examples (Andres)  
 
-You'll learn how to:
+You'll learn how to:  
 Look up resources to troubleshoot/improve your programming skills  
 Use command-line to organize, modify, analyze data  
 Write basic scripts to develop tasks in the Cowboy (OSU High Performance Computer)  
