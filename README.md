@@ -9,8 +9,8 @@ Saturday, March 17th in 130K HBRC
 Software set-up: day & time TBD  
 
 
-Schedule: 
-8:30AM-9AM - BREAKFAST
+Schedule:  
+8:30AM-9AM - BREAKFAST  
 9AM-12PM - Morning section - Introduction to Cowboy and basic unix with hands-on examples (Nathalia)  
 12PM-1PM - LUNCH  
 1PM-4PM - Afternoon section - Basic scripting and more hands-on examples (Andres)  
