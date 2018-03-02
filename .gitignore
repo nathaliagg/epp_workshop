@@ -3,6 +3,10 @@ ngg_unix_morning/.ipynb_checkpoints/*
 ngg_unix_morning/*.fasta
 ngg_unix_morning/*.gz
 ngg_unix_morning/*feature.tab
+ngg_unix_morning/*.png
+README.md~
+.gitignore~
+
 
 afternoon/*~
 afternoon/.ipynb_checkpoints/*
