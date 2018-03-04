@@ -71,4 +71,7 @@ git-commands.sh
 *.fna
 *.fast5
 
+#Latex
+*.tex
+
 
